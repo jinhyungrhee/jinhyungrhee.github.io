@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://jinhyungrhee.github.io/tag/algorithm/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://jinhyungrhee.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-08-01T16:21:12+09:00</updated>
+  <id>https://jinhyungrhee.github.io/tag/algorithm/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Jinhyung’s Blog | </title>
+  
+
+  
+    <subtitle>배운 것을 기록하는 공간입니다</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">algorithm (1) - Intro</title>
+      <link href="https://jinhyungrhee.github.io/algorithm-intro" rel="alternate" type="text/html" title="algorithm (1) - Intro" />
+      <published>2021-08-01T15:30:00+09:00</published>
+      <updated>2021-08-01T15:30:00+09:00</updated>
+      <id>https://jinhyungrhee.github.io/algorithm-intro</id>
+      <content type="html" xml:base="https://jinhyungrhee.github.io/algorithm-intro">&lt;h2 id=&quot;알고리즘이란&quot;&gt;알고리즘이란?&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Algorithm 관련 POST &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./algorithm-intro&quot;&gt;Algorithm (1) - 알고리즘이란?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>jinhyungrhee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="algorithm" />
+      
+
+      
+        <summary type="html">알고리즘이란?</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

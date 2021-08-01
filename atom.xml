@@ -25,6 +25,21 @@
     
       
       <item>
+        <title>algorithm (1) - Intro</title>
+        
+          <description>&lt;h2 id=&quot;알고리즘이란&quot;&gt;알고리즘이란?&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Sun, 01 Aug 2021 15:30:00 +0900</pubDate>
+        <link>
+        https://jinhyungrhee.github.io/algorithm-intro</link>
+        <guid isPermaLink="true">https://jinhyungrhee.github.io/algorithm-intro</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Python 강좌(2) - Python 제어문</title>
         
           <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
@@ -72,21 +87,6 @@
         <link>
         https://jinhyungrhee.github.io/jekyll-basic</link>
         <guid isPermaLink="true">https://jinhyungrhee.github.io/jekyll-basic</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Gettysburg Address</title>
-        
-          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
-        <link>
-        https://jinhyungrhee.github.io/gettysburg-address</link>
-        <guid isPermaLink="true">https://jinhyungrhee.github.io/gettysburg-address</guid>
       </item>
       
     
