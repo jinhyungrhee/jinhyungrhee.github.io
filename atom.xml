@@ -2,9 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>Jinhyung's 기술 블로그</description>
+    <description>배운 것을 기록하는 공간입니다</description>
     <link>
     https://jinhyungrhee.github.io</link>
+    
+      
+      <item>
+        <title>Jekyll 강좌(2) - 블로그를 테스트입니다</title>
+        
+          <description>&lt;blockquote&gt;
+  &lt;p&gt;안녕하세요&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        
+        <pubDate>Sun, 01 Aug 2021 15:30:00 +0900</pubDate>
+        <link>
+        https://jinhyungrhee.github.io/jekyll-test</link>
+        <guid isPermaLink="true">https://jinhyungrhee.github.io/jekyll-test</guid>
+      </item>
+      
     
       
       <item>

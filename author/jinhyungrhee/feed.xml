@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://jinhyungrhee.github.io/author/jinhyungrhee/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jinhyungrhee.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-08-01T13:17:52+09:00</updated>
+  <updated>2021-08-01T15:48:45+09:00</updated>
   <id>https://jinhyungrhee.github.io/author/jinhyungrhee/feed.xml</id>
 
   
@@ -16,7 +16,7 @@
   
 
   
-    <subtitle>Jinhyung's 기술 블로그</subtitle>
+    <subtitle>배운 것을 기록하는 공간입니다</subtitle>
   
 
   
@@ -30,6 +30,48 @@
   
   
 
+  
+    <entry>
+      <title type="html">Jekyll 강좌(2) - 블로그를 테스트입니다</title>
+      <link href="https://jinhyungrhee.github.io/jekyll-test" rel="alternate" type="text/html" title="Jekyll 강좌(2) - 블로그를 테스트입니다" />
+      <published>2021-08-01T15:30:00+09:00</published>
+      <updated>2021-08-01T15:30:00+09:00</updated>
+      <id>https://jinhyungrhee.github.io/jekyll-test</id>
+      <content type="html" xml:base="https://jinhyungrhee.github.io/jekyll-test">&lt;blockquote&gt;
+  &lt;p&gt;안녕하세요&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;markdown으로 작성한 첫번째 글입니다.
+반갑습니다.!&lt;/p&gt;
+
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Hello World!'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>jinhyungrhee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jekyll" />
+      
+
+      
+        <summary type="html">안녕하세요</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Python 강좌(2) - Python 제어문</title>
