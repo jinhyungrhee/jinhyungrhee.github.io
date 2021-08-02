@@ -4,6 +4,22 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://jinhyungrhee.github.io/java-test.html</loc>
+        
+        <lastmod>2021-08-02T14:20:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
         <loc>https://jinhyungrhee.github.io/jekyll-test.html</loc>
         
         <lastmod>2021-08-01T15:30:00+09:00</lastmod>
