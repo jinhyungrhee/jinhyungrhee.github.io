@@ -8,6 +8,51 @@
     
       
       <item>
+        <title>JavaScript (6) - 사용자 입력</title>
+        
+          <description>&lt;h1 id=&quot;사용자-입력input&quot;&gt;사용자 입력(Input)&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Tue, 03 Aug 2021 12:00:00 +0900</pubDate>
+        <link>
+        https://jinhyungrhee.github.io/js-input</link>
+        <guid isPermaLink="true">https://jinhyungrhee.github.io/js-input</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>JavaScript (5) - CSS 작업</title>
+        
+          <description>&lt;h1 id=&quot;javascript를-이용한-css-작업&quot;&gt;JavaScript를 이용한 CSS 작업&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Mon, 02 Aug 2021 15:30:00 +0900</pubDate>
+        <link>
+        https://jinhyungrhee.github.io/js-css</link>
+        <guid isPermaLink="true">https://jinhyungrhee.github.io/js-css</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>JavaScript (4) - 이벤트</title>
+        
+          <description>&lt;h1 id=&quot;이벤트event&quot;&gt;이벤트(Event)&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Mon, 02 Aug 2021 15:30:00 +0900</pubDate>
+        <link>
+        https://jinhyungrhee.github.io/js-event</link>
+        <guid isPermaLink="true">https://jinhyungrhee.github.io/js-event</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Java (1) - 객체지향</title>
         
           <description>&lt;h1 id=&quot;객체지향&quot;&gt;객체지향&lt;/h1&gt;
@@ -18,21 +63,6 @@
         <link>
         https://jinhyungrhee.github.io/java-test</link>
         <guid isPermaLink="true">https://jinhyungrhee.github.io/java-test</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>JavaScript (1) - 자료형(Data Type)</title>
-        
-          <description>&lt;h1 id=&quot;javascript-자료형&quot;&gt;JavaScript 자료형&lt;/h1&gt;
-
-</description>
-        
-        <pubDate>Sun, 01 Aug 2021 15:30:00 +0900</pubDate>
-        <link>
-        https://jinhyungrhee.github.io/js-datatype</link>
-        <guid isPermaLink="true">https://jinhyungrhee.github.io/js-datatype</guid>
       </item>
       
     
@@ -86,6 +116,51 @@
         <link>
         https://jinhyungrhee.github.io/python-basic</link>
         <guid isPermaLink="true">https://jinhyungrhee.github.io/python-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>JavaScript (3) - 문서 객체</title>
+        
+          <description>&lt;h1 id=&quot;문서-객체document-object&quot;&gt;문서 객체(document object)&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Fri, 30 Jul 2021 15:30:00 +0900</pubDate>
+        <link>
+        https://jinhyungrhee.github.io/js-document</link>
+        <guid isPermaLink="true">https://jinhyungrhee.github.io/js-document</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>JavaScript (2) - 조건문</title>
+        
+          <description>&lt;h1 id=&quot;javascript-조건문&quot;&gt;JavaScript 조건문&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Thu, 29 Jul 2021 15:30:00 +0900</pubDate>
+        <link>
+        https://jinhyungrhee.github.io/js-conditionals</link>
+        <guid isPermaLink="true">https://jinhyungrhee.github.io/js-conditionals</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>JavaScript (1) - 함수</title>
+        
+          <description>&lt;h1 id=&quot;javascript-함수-기초&quot;&gt;JavaScript 함수 기초&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Wed, 28 Jul 2021 15:30:00 +0900</pubDate>
+        <link>
+        https://jinhyungrhee.github.io/js-function</link>
+        <guid isPermaLink="true">https://jinhyungrhee.github.io/js-function</guid>
       </item>
       
     
