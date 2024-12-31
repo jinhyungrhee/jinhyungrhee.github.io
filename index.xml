@@ -6,7 +6,14 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:08 +0900</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>/post/test2/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:08 +0900</pubDate>
+      <guid>/post/test2/</guid>
+      <description>&lt;h2 id=&#34;안녕하세요2&#34;&gt;안녕하세요2&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;테스트2&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
